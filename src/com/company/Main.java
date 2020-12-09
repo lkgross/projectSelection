@@ -23,7 +23,7 @@ public class Main {
 			// Initialize any other variables as needed.
 
 			// Do an inner loop:
-			// Find the both the *max* value between index 0 and storeSpot, inclusive, and the corresponding index *swapSpot*.
+				// {Find both the *max* value between index 0 and storeSpot, inclusive, and the corresponding index *swapSpot*.}
 
 			//  Swap max with data[storeSpot].
 		}
